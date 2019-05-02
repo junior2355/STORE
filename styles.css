@@ -1,0 +1,22 @@
+.power{
+    display:flex;
+    justify-content:center;
+}
+#name{
+    display:flex;
+    justify-content:space-around;    
+}
+.rap{
+    display:flex;
+    justify-content:space-between;    
+}
+#rico{
+    display:flex;
+    justify-content:space-around;
+}
+html{
+    background-color:red;
+}
+h1{
+ border:10px;   
+}
